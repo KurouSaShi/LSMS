@@ -14,6 +14,7 @@
 - [スマホアプリ](#スマホアプリ)
     - [PWAのインストール](#PWAのインストール)
     - [基本操作](#基本操作)
+    - [開発中の機能](#開発中の機能)
     - [スマホのそのほかの機能](#スマホのそのほかの機能)
 - [注意事項・規約](#注意事項・規約)
 - [マニア向けの説明](#マニア向けの説明)
@@ -121,7 +122,6 @@ closeされたissueには返信ができません。また、再びopenにする
 
 ### PCその他機能
 
-環境設定から通知音を好きなwavに指定することができます。
 
 
 ## スマホアプリ
@@ -153,12 +153,22 @@ DLしたアプリはオフライン下でも使用できるようになり、次
 
 ### 基本操作
 
-書くのめんどくさい
+![](https://github.com/KurouSaShi/LSMS/blob/main/readme/IMG_4034.png?raw=true)
+![](https://github.com/KurouSaShi/LSMS/blob/main/readme/IMG_4035.png?raw=true)
+![](https://github.com/KurouSaShi/LSMS/blob/main/readme/IMG_4036.png?raw=true)
+![](https://github.com/KurouSaShi/LSMS/blob/main/readme/IMG_4037.png?raw=true)
 
 ### スマホそのほかの機能
 本文プレビュー機能をONにするとメモの下に本文が表示されるようになります
 
 ダークモード切替があります。
+
+### 開発中の機能
+現在完全オフラインアプリ化のために開発しています。
+
+現在はアプリのタスクキルをしなければオフラインでも動きます。
+
+スプラッシュ通知機能は開発中です。
 
 ## 注意事項・規約
 
