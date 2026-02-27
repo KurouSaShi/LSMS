@@ -30,7 +30,8 @@ DLと展開をした後、LSMS.exeを開くと起動できます。
 
 ## できること
 
-https://github.com/KurouSaShi/LSMS/blob/main/readme/978_20260225215454.png?raw=true
+![](https://github.com/KurouSaShi/LSMS/blob/main/readme/978_20260225215250.png?raw=true)
+![](https://github.com/KurouSaShi/LSMS/blob/main/readme/978_20260225215454.png?raw=true)
 
 1.ソフト名：わかりやすいですね。
 
